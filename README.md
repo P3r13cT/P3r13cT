@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P3r13cT
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript (not really "currently", but i did start!)
 - 📫 How to reach me: Discord - P3rf3cT#9349
 
 <!---
